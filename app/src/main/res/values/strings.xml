@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CatsPragma</string>
+    <string name="none_description">None description</string>
+
+    <string name="ori">Origen: %s</string>
+    <string name="intelligence_text">Inteligencia: %d</string>
+</resources>
