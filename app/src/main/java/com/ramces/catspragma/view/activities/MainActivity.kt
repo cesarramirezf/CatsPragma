@@ -47,7 +47,6 @@ class MainActivity : AppCompatActivity() {
                     newBreeds.add(Breed(id, name, origin, intelligence, imageUrl))
                 }
                 breeds.addAll(newBreeds)
-
                 breedAdapter.setBreeds(breeds)
             },
             Response.ErrorListener { error ->
